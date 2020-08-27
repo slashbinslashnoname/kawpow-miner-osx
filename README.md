@@ -1,0 +1,1 @@
+# kawpow-miner-osx
